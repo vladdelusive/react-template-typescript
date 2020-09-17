@@ -1,2 +1,2 @@
 # template-react
-My template for any react-redux app
+My templates for any react-redux app
