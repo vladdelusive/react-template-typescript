@@ -1,0 +1,1 @@
+export { SmthComponent } from "./smth";
